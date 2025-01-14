@@ -16,5 +16,5 @@ to test basic code
 Explain how to use your project
 
 ## External hardware
-LED display
+LED display connect
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
