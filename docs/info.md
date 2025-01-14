@@ -12,9 +12,9 @@ Vishnu kumar
 Explain how your project works
 
 ## How to test
-
+to test basic code
 Explain how to use your project
 
 ## External hardware
-
+LED display
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
