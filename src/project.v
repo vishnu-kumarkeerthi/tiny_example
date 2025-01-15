@@ -23,7 +23,7 @@ assign uo_out = {ui_in[3:0], ui_in[7:4]};
 assign uio_out = 8'b00000000;
 assign uio_oe = 8'b00000000;
 // Tie off unused signals to prevent warnings.
-wire _unused = &{ena, clk, rst_n, uio_in, 1’b0};
+  wire _unused = &{ena, clk, rst_n, uio_in, 1'b0};
 endmodule
 
 // `default_nettype none
