@@ -26,4 +26,4 @@ assign uio_oe = 8'b0000_0000;
 wire _unused = &{ena, clk, rst_n, uio_in, 1’b0};
 endmodule
 
-`default_nettype none
+// `default_nettype none
