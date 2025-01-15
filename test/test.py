@@ -32,4 +32,4 @@ async def test_nibble_swap(dut):
         assert observed == expected, f"FAIL:␣Input={hex(val)}␣=> Expected={hex(expected)}, Got={hex(observed)}"
     # Keep testing the module by changing the input values, waiting for
     # one or more clock cycles, and asserting the expected output values.
-dut._log.info("Nibble swap test passed!")
+    dut._log.info("Nibble swap test passed!")
